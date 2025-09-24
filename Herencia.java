@@ -4,14 +4,16 @@
 
 package com.mycompany.herencia;
 
+import com.mycompany.ejercicios_herencia.Corral;
+
 /**
  *
  * @author Imp_06 - Mañana
  */
-public class Ejercicios_Herencia {
+public class Herencia {
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         Corral c = new Corral();
         c.simulaUnDia();
-    }*/
+    }
 }

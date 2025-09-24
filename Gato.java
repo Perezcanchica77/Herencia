@@ -17,7 +17,7 @@ public class Gato extends AnimalAbstracto{
                 if(hora % 2 == 0){
                     System.out.println("El gato "+getNombre()+ " está jugando");
                 }else{
-                    System.out.println("El gato "+getNombre()+ " está molestando");
+                    System.out.println("El gato "+getNombre()+ " está molestando mucho");
                 }
             }
         }else{//Duerme
